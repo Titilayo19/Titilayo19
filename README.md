@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @Titilayo19
-- 👀 I’m interested in data analyst
-- 🌱 I’m currently learning how to work with excel,powerBi,Tableau and SQL
-- 💞️ I’m looking to collaborate on data entry jobs
-- 📫 How to reach me olatunjititimercy19@gmail.com
+# Hi, I'm Olatunji Titilayo 👋
 
+**Data Analyst | Web Scraping & Business Intelligence**
 
-<!---
-Titilayo19/Titilayo19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I turn messy data into clean datasets and clear dashboards. I have a Chemical Engineering background, and at Henkel I helped cut machine downtime by 50% through breakdown analysis.
+
+## Projects
+- **Jumia E-commerce Web Scraping & EDA**: Python scraper and analysis of Jumia Nigeria electronics products
+- **Equipment Reliability & Maintenance Dashboard**: SQL Server and Power BI dashboard on machine failures
+
+## Tools
+Python · Pandas · BeautifulSoup · SQL · Excel · Power BI
+
+## Contact
+olatunjititimercy19@gmail.com · [LinkedIn](https://www.linkedin.com/in/titilayo-olatunji-82445120a/)
